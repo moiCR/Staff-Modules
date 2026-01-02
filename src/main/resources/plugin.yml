@@ -1,0 +1,5 @@
+name: StaffModules
+version: 1.0-SNAPSHOT
+main: git.moiCR.staffmodules.StaffModules
+api-version: 1.21.11
+description: Creado con VSCraft
